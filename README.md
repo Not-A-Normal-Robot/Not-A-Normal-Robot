@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Not-A-Normal-Robot
+- I play Tetris
+- I’m currently learning C#
+- That's basically it
+- I want to make Tetris on console and make it look like the first Tetris game ever
