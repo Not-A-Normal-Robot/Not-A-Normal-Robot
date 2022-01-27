@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @Not-A-Normal-Robot
+- GMT+7
 - I play Tetris
-- I’m currently learning C#
+- I know about C#, C++, and a bit of Lua
