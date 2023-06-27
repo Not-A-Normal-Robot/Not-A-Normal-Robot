@@ -1,3 +1,3 @@
 - GMT+7
 - I play Tetris
-- I know about C#, some of C++, and a bit of Lua
+- I know about C#, Lua, and a bit of C++ and Rust
