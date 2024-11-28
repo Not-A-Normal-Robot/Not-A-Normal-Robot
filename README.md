@@ -1,3 +1,13 @@
-- GMT+7
-- I play Tetris
-- I know about C#, Lua, and a bit of C++ and Rust
+Hi, I'm NOT_A_ROBOT!
+
+I like to play nerdy and puzzle games such as Tetris and Kerbal Space Program.
+
+Languages I know:
+- HTML + CSS
+- JavaScript and TypeScript
+- C#
+- Lua
+- Rust
+- Slint
+
+[Techmino is fun!](https://github.com/26F-Studio/Techmino)
