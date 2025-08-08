@@ -1,6 +1,8 @@
-Hi, I'm NOT_A_ROBOT!
+Support consumer rights! https://consumerrights.wiki/
 
 ## About Me
+
+Hi, I'm NOT_A_ROBOT!
 
 I like to play nerdy and puzzle games such as Tetris and Kerbal Space Program.
 
